@@ -1,3 +1,2 @@
 #!/bin/bash
-ls -pa1 | awk '{ORS = NR % 2 ? ,  : n} 1'
-
+ls -pa1 | awk '{ORS=NR%2?,:n}1'
