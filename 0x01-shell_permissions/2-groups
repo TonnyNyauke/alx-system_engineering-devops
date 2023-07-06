@@ -1,3 +1,2 @@
 #!/bin/bash
-id -nG | awk 'BEGIN{ORS= } {print}'
-id -nG | awk 'BEGIN{ORS=" "} {print}'
+id -Gn
