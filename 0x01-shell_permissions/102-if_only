@@ -1,2 +1,2 @@
 #!/bin/bash
-sudo chown betty hello fi
+chown betty hello if [ $(stat -c %U hello) != "guillaume" ]
