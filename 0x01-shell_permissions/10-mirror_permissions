@@ -1,0 +1,3 @@
+#!/bin/bash
+mode=644
+chmod  hello
