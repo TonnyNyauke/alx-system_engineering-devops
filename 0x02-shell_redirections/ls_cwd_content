@@ -1,0 +1,15 @@
+total 44
+drwxr-xr-x 2 root root 293 Jul 10 01:56 .
+drwxr-xr-x 6 root root 121 Jul  9 21:32 ..
+-rwxr-xr-x 1 root root  32 Jul  9 21:35 0-hello_world.sh
+-rwxr-xr-x 1 root root  18 Jul  9 21:48 1-confused_smiley.sh
+-rwxr-xr-x 1 root root  33 Jul  9 21:52 2-hellofile.sh
+-rwxr-xr-x 1 root root  44 Jul 10 00:54 3-twofiles.sh
+-rwxr-xr-x 1 root root  35 Jul 10 00:53 4-lastlines.sh
+-rwxr-xr-x 1 root root  35 Jul 10 00:57 5-firstlines.sh
+-rwxr-xr-x 1 root root  39 Jul 10 01:03 6-third_line.sh
+-rwxr-xr-x 1 root root  98 Jul 10 01:50 7-file.sh
+-rwxr-xr-x 1 root root  36 Jul 10 01:55 8-cwd_state.sh
+-rw-r--r-- 1 root root  12 Jul 10 01:18 *\\\Best School\\*\\$\\?\\*\\*\\*\\*\\*):)
+-rw-r--r-- 1 root root 785 Jul 10 00:59 iacta
+-rw-r--r-- 1 root root   0 Jul 10 01:56 ls_cwd_content
